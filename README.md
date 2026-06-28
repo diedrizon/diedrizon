@@ -1,9 +1,7 @@
 <h1 align="center">Hola, soy Diedrizon Fargas 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/diedrizon">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&height=45&lines=Full-Stack+Developer;BI+Analyst;Building+SaaS+for+Nicaraguan+SMBs;React+%2B+TypeScript+%2B+Supabase;AI-Assisted+Solo+Builder" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&height=45&lines=Full-Stack+Developer;BI+Analyst;Building+SaaS+for+Nicaraguan+SMBs;React+%2B+TypeScript+%2B+Supabase;AI-Assisted+Solo+Builder" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -34,6 +32,7 @@
 
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 **Data / BI**
@@ -84,6 +83,9 @@
 **🔄 TruekApp** &nbsp;·&nbsp; `🚧 In development`
 > PWA P2P de trueque para microempresarios, con IA de matchmaking para emparejar ofertas y demandas — mismo stack React + TypeScript + Supabase. &nbsp;`[COMPLETAR: link al repo cuando sea público]`
 
+**🍽️ Rica Tentación** &nbsp;·&nbsp; `BI End-to-End`
+> Sistema de business intelligence para un restaurante: PWA en React + TypeScript, backend en Supabase + MySQL y dashboards de KPIs en Power BI, con control de acceso por roles y seguridad alineada a ISO/IEC 27001.
+
 **📊 Power BI / DAX dashboards** &nbsp;·&nbsp; `Analytics`
 > Modelos de datos y tableros de analítica para clientes reales (restaurante, gimnasio, salones), conectando operación diaria con decisiones de negocio.
 
@@ -94,13 +96,16 @@
 ### 🌐 Let's connect
 
 <p align="center">
-  <a href="[COMPLETAR: URL de tu portafolio en vivo]">
+  <a href="https://portafolio-de-diedrizon.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="[COMPLETAR: URL de tu perfil de LinkedIn]">
+  <a href="https://portafolio-de-diedrizon.netlify.app/CV-Diedrizon.pdf">
+    <img src="https://img.shields.io/badge/Descargar%20CV-9ECE6A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/diedrizon-fargas-a65181238">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/diedrizon_fargas">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="mailto:diedrinzonfargas@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
