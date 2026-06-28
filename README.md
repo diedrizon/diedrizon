@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Full--Stack-7AA2F7?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/BI%20Analyst-BB9AF7?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Ingenier%C3%ADa%20de%20Sistemas-9ECE6A?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Juigalpa%2C%20Nicaragua%20%F0%9F%87%B3%F0%9F%87%AE-1A1B27?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Juigalpa%2C%20Nicaragua%20%F0%9F%87%B3%F0%9F%87%AE-3B4261?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
@@ -25,7 +25,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-1A1B27?style=for-the-badge&logo=react&logoColor=7AA2F7)
+![Zustand](https://img.shields.io/badge/Zustand-3B4261?style=for-the-badge&logo=react&logoColor=7AA2F7)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
 
 **Backend / Data**
@@ -44,7 +44,7 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-1A1B27?style=for-the-badge&logo=cursor&logoColor=7AA2F7)
+![Cursor](https://img.shields.io/badge/Cursor-3B4261?style=for-the-badge&logo=cursor&logoColor=7AA2F7)
 
 ---
 
